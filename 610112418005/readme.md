@@ -9,10 +9,10 @@ _สาขาเทคโนโลยรสารสนเทศ_
 >รหัสนักศึกษา 610112418005
 
 ###Link LAB
-[LAB1](https://github.com/Jirodomm/4134901-2-64/tree/main/LAB1)
-[LAB2](https://github.com/Jirodomm/4134901-2-64/tree/main/LAB2)
-[LAB3](https://github.com/Jirodomm/4134901-2-64/tree/main/LAB3)
-[LAB4](https://github.com/Jirodomm/4134901-2-64/tree/main/LAB3/hello-react/src/components)
+[LAB1](https://github.com/Jirodomm/4134901-2-64/tree/main/610112418005/LAB1)
+[LAB2](https://github.com/Jirodomm/4134901-2-64/tree/main/610112418005/LAB2)
+[LAB3](https://github.com/Jirodomm/4134901-2-64/tree/main/610112418005/LAB3)
+[LAB4](https://github.com/Jirodomm/4134901-2-64/tree/main/610112418005/LAB3/hello-react/src/components)
 
 ###RUN
 **LAB1**
