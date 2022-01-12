@@ -4,7 +4,7 @@ _สาขาเทคโนโลยรสารสนเทศ_
 **คณะวิทยาศาสตร์**
 
 ###นายจิโรดม  ศรีสมร
-![จิโรดม  ศรีสมร](https://scontent.fnak3-1.fna.fbcdn.net/v/t1.6435-9/72239720_2444773999177395_6282238214203768832_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=174925&_nc_ohc=yby7tGrJ-KsAX9A0lRR&_nc_ht=scontent.fnak3-1.fna&oh=2c1c582f7c24c5f3cca84025cf29d2c6&oe=61C34BC3)
+![จิโรดม  ศรีสมร](https://scontent.fnak3-1.fna.fbcdn.net/v/t39.30808-6/269895861_3127586484229473_6736113447842756733_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ElXxmiVlZYAAX_az5NL&_nc_ht=scontent.fnak3-1.fna&oh=00_AT9Sepb7RjT_sEP8LjuOGPwuOA-s9QmrhanapwZxu22esQ&oe=61E38EAD)
 
 >รหัสนักศึกษา 610112418005
 
