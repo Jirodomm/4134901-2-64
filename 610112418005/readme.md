@@ -13,6 +13,9 @@ _สาขาเทคโนโลยรสารสนเทศ_
 [LAB2](https://github.com/Jirodomm/4134901-2-64/tree/main/610112418005/LAB2)
 [LAB3](https://github.com/Jirodomm/4134901-2-64/tree/main/610112418005/LAB3)
 [LAB4](https://github.com/Jirodomm/4134901-2-64/tree/main/610112418005/LAB3/hello-react/src/components)
+[LAB6](https://github.com/Jirodomm/4134901-2-64/tree/main/610112418005/LAB6)
+[LAB7](https://github.com/Jirodomm/4134901-2-64/tree/main/610112418005/LAB7)
+[LAB8](https://github.com/Jirodomm/4134901-2-64/tree/main/610112418005/LAB8)
 
 ###RUN
 **LAB1**
